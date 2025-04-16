@@ -1,9 +1,11 @@
 ---
 title: "세연과 나, 속초 여행의 끝"
-date: 2024-07-03 20:00:00 +0900
+date: 2025-04-16 18:00:00 +0900
 categories: [SL]
 tags: [세연, 소유, Our Kind of Love, 속초]
 ---
+
+채팅 내 시간 2024-06-21, 현실 시간 2024-07-11에 작성한 로그
 
 <img src="/assets/images/beach-promise1.png" alt="해변에서의 약속" style="max-width:100%; border-radius:12px;">
 
