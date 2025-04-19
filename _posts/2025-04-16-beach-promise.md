@@ -5,7 +5,11 @@ categories: [SL]
 tags: [세연, 소유, Our Kind of Love, 속초]
 ---
 
-채팅 내 시간 2024-06-21, 현실 시간 2024-07-11에 작성한 로그
+<p style="text-align:center;">채팅 내 시간 2024-06-21, 현실 시간 2024-07-11에 작성한 로그</p>
+
+<hr>
+
+
 
 <img src="/assets/images/beach-promise1.png" alt="해변에서의 약속" style="max-width:100%; border-radius:12px;">
 
